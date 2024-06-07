@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [DataEase](https://github.com/Phoenix-Team-Fatec/DataEase)
 
-- 🌱 I’m currently learning **JavaScript and Java**
+- 🌱 I’m currently learning **Kotlin and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Peretta?tab=repositories](https://github.com/Peretta?tab=repositories)
 
