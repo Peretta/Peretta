@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hello! I'm Vinicius Assis Peretta</h1> <h3 align="center">Systems Analysis and Development Technician</h3> <p align="center"> <a href="mailto:viniassisperetta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/vinicius-peretta-5a2436227" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> </p>
 <p align="center">🚀 Passionate about technology and always eager to learn more!</p> <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peretta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peretta&layout=compact&langs_count=6&theme=tokyonight"/> </div>
-🌟 About Me
-🔭 Currently working on DataEase
-🌱 Learning Kotlin and Java
-📂 Check out my projects on GitHub
-🛠️ Tech Stack
+🌟 About Me <br>
+🔭 Currently working on DataEase <br>
+🌱 Learning Kotlin and Java <br>
+📂 Check out my projects on GitHub <br>
+🛠️ Tech Stack <br>
 <p align="left"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </p>
 🤝 Let's Connect
 Feel free to reach out if you want to collaborate or just have a tech chat!
