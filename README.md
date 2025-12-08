@@ -8,15 +8,13 @@ Atuo no ecossistema de desenvolvimento e qualidade de software com foco em **tes
 
 ### 🚀 Projetos que Participei
 
-#### 📚 Projetos Acadêmicos – FATEC SJC
-
-| Projeto | Semestre | Empresa / Contexto | Scrum Tutor |
-| :--- | :--- | :--- | :--- |
-| DataEase | 2024-1 (2º Sem.) | FATEC – Prof. Bertotti | Prof. Bertotti |
-| OAK-RH | 2024-2 (3º Sem.) | Youtan – Prof. Massanori | Prof. Massanori |
-| Lumen | 2025-1 (4º Sem.) | FAPG – Prof. Juliana | Prof. Juliana |
-| GeoMaps | 2025-2 (5º Sem.) | Visiona – Prof. Gérson | Prof. Gérson |
-| ProjetoSemestre | 2023-1 (1º Sem.) | FATEC – Prof. Egideo | Prof. Egideo |
+| Projeto | Semestre | Empresa Parceira
+|---|---|---|---|
+| Scrum Tutor | 2023-1 (1º Sem.) | FATEC (Prof. Egideo) 
+| DataEase | 2024-1 (2º Sem.) | FATEC (Prof. Bertotti) 
+| OAK-RH | 2024-2 (3º Sem.) | Youtan (Prof. Massanori) 
+| Lumen | 2025-1 (4º Sem.) | FAPG (Prof. Juliana) 
+| GeoMaps | 2025-2 (5º Sem.) | Visiona (Prof. Gérson)
 
 > **Nota:** Esses projetos abrangem desenvolvimento web/mobile, microsserviços, integrações, análise de requisitos, UX — consolidando experiência prática em times ágeis.
 
