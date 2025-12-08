@@ -9,7 +9,7 @@ Atuo no ecossistema de desenvolvimento e qualidade de software com foco em **tes
 ### 🚀 Projetos que Participei
 
 | Projeto | Semestre | Empresa Parceira
-|---|---|---|---|
+|---|---|---|
 | Scrum Tutor | 2023-1 (1º Sem.) | FATEC (Prof. Egideo) 
 | DataEase | 2024-1 (2º Sem.) | FATEC (Prof. Bertotti) 
 | OAK-RH | 2024-2 (3º Sem.) | Youtan (Prof. Massanori) 
