@@ -1,6 +1,6 @@
 ## 🧑‍💻 Vinicius Peretta
 
-**Analista de Sistemas Júnior | QA Automation | Desenvolvedor Full Stack | Estudante de ADS (FATEC SJC)**
+**Analista de Sistemas Júnior | QA Automation | Estudante de ADS (FATEC SJC)**
 
 Atuo no ecossistema de desenvolvimento e qualidade de software com foco em **testes automatizados**, engenharia de sistemas e aplicações web/mobile. Participo ativamente de projetos acadêmicos e corporativos, com forte integração entre desenvolvimento, QA.
 
